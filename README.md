@@ -7,6 +7,7 @@ This is a collection of useful/interesting articles that the UACSS has collected
 - [Computer Architecture](./computer-architecture/README.md)
 - [Hardware](./hardware/README.md)
 - [Virtualization](./virtualization/README.md)
+- [Multimedia](./multimedia/README.md)
 
 Each folder in this repo corresponds to one of those sections, which are further divided for browsing convenience.
 
